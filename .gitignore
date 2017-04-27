@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  <head >
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title>章魚的練習</title>
+  </head>
+  <body style =" background-image :url(http://static.ettoday.net/images/2086/d2086146.jpg)">
+     <div style="background-color:#FFE4C4;width:400px;height:0px;margin:0 auto;">
+	 <h1>這裡是我的網頁練習區的啦!</h1>
+	 <ol>
+	 <ul>
+	 <a href ="homepage.html"><li>聊天室</li></a>
+	 <a><li></li></a>
+	 <a><li>學習日記</li></a>
+	 <a><li>湊數用</li></a>
+	 <ul>
+	 </ol>
+	 </div>
+  </body>
+</html>
